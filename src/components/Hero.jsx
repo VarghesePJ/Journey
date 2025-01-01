@@ -13,7 +13,7 @@ const Hero = () => {
                 <div class="absolute inset-0 block bg-black/60 md:hidden"></div>
                 <div class="relative px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
                     <div class="text-center md:w-2/3 lg:w-1/2 xl:w-1/2 md:text-left">
-                        <h2 class="text-3xl font-bold leading-tight sm:text-4xl lg:text-5xl bg-gradient-to-r from-amber-200 to-yellow-500 inline-block text-transparent bg-clip-text">Discover the Magic of the</h2>
+                        <h2 class="text-3xl font-bold leading-tight sm:text-4xl lg:text-5xl bg-gradient-to-r from-amber-200 to-yellow-500 inline-block text-transparent bg-clip-text">Discover the Magic of the UAE</h2>
                         <h2 class="text-3xl font-bold leading-tight sm:text-4xl lg:text-5xl bg-gradient-to-l from-amber-200 to-yellow-500 inline-block text-transparent text-rigth bg-clip-text">اكتشف سحر الإمارات</h2>
                         <p class="mt-4 text-base text-left text-gray-200">Your ultimate guide to unforgettable experiences.</p>
                         <p class="mt-4 text-base text-right text-gray-200">دليلك الشامل لتجارب لا تُنسى</p>
